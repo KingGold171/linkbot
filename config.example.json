@@ -1,0 +1,5 @@
+{
+    "postgres": "postgres://user:pass@host/db",
+    "token": "",
+    "authlink": "https://discordapp.com/oauth2/authorize?client_id=id&scope=bot&permissions=0"
+}
